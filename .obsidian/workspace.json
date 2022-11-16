@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Engineering Lifecycle.md",
+                "file": "Data Engineer Role.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Engineering Lifecycle.md",
+                "file": "Data Engineer Role.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Engineering Lifecycle.md",
+                "file": "Data Engineer Role.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Engineering Lifecycle.md"
+                "file": "Data Engineer Role.md"
               }
             }
           }
@@ -138,8 +138,8 @@
   },
   "active": "83ae9e97770fd1fa",
   "lastOpenFiles": [
-    "Maturity.md",
     "Data Engineering Lifecycle.md",
+    "Maturity.md",
     "Data Engineer Role.md",
     "Lifecycle/Undercurrents/Undercurrents.md",
     "Lifecycle/Undercurrents/Software Engineering.md",
