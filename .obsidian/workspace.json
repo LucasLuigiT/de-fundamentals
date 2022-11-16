@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "18f08965df7054c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c12baa25a8ce91b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83ae9e97770fd1fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Engineering Lifecycle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f11838435ae1cd4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2250c892cda9c403",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7176f88ad3a41a3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a3f2a27eaacf39c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1a5e56b0be4f50dd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d91346e541e60b81",
+    "type": "split",
+    "children": [
+      {
+        "id": "56dffb3cc07a07cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b86f81ef0372eaa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data Engineering Lifecycle.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "547df6ec8e502545",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Data Engineering Lifecycle.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f0985d152262ab78",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cfbedcb15beaa34d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Data Engineering Lifecycle.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "83ae9e97770fd1fa",
+  "lastOpenFiles": [
+    "Maturity.md",
+    "Data Engineering Lifecycle.md",
+    "Data Engineer Role.md",
+    "Lifecycle/Undercurrents/Undercurrents.md",
+    "Lifecycle/Undercurrents/Software Engineering.md",
+    "Lifecycle/Undercurrents/Security.md",
+    "Lifecycle/Undercurrents/Orchestration.md",
+    "Lifecycle/Undercurrents/DataOps.md",
+    "Lifecycle/Undercurrents/Data Management.md",
+    "Lifecycle/Undercurrents/Data Architecture.md"
+  ]
+}
